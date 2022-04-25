@@ -300,6 +300,7 @@ end
 | `dnetcs`     | .NET, C#                         | netcoredbg            | `wget`, `tar`           | Tested       |
 | `go_delve`   | Go                               | delve                 | `go`                    | Tested       |
 | `chrome`     | JavaScriptReact, TypeScriptReact | vscode-chrome-debug   | `npm`, `git`            | Tested       |
+| `firefox`    | JavaScriptReact, TypeScriptReact | vscode-firefox-debug  | `npm`, `git`            | Experimental |
 | `dart`       | Dart                             | dart-code             | `git`, `npx`            | Supported    |
 | `jsnode`     | JavaScript                       | node-debug2           | `npm`, `git`            | Supported    |
 | `ruby_vsc`   | Ruby                             | netcoredbg            | `git`, `npm`            | Experimental |
